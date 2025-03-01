@@ -4,7 +4,7 @@
 This directory contains a set of tools, mainly written in Common Lisp, for
 algorithmic text generation.
 
-* Details
+** Details
 
 more to come...
 
