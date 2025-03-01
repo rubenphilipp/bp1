@@ -4,6 +4,10 @@
 This directory contains a set of tools, mainly written in Common Lisp, for
 algorithmic text generation.
 
+* Details
+
+more to come...
+
 * Apropos
 
 /BP/ could mean...
