@@ -1,0 +1,104 @@
+#+title: BP1
+#+date: 2025-03-01
+
+This directory contains a set of tools, mainly written in Common Lisp, for
+algorithmic text generation.
+
+* Apropos
+
+/BP/ could mean...
+
+- Bentrup Philipp
+- Binary Poem
+- Bot Poet
+- Boundless Prose
+- Breathless Play
+- Branching Plot
+- Beat Poetry
+- Bardic Performance
+- Boolean Poetics
+- Brutalist Play
+- Blended Persona
+- Broken Pentameter
+- Bizarre Playwright
+- Bespoke Poem
+- Blank Page
+- Borrowed Perspective
+- Bifurcating Plot
+- Bardic Prose
+- Blueprint Play
+- Boundless Performance
+- Binary Perspective
+- Buried Prologue
+- Blended Poetry
+- Bricolage Play
+- Bardic Parable
+- Bespoke Performance
+- Borrowed Poetics
+- Broken Prose
+- Bifocal Perspective
+- Baroque Play
+- Binary Play
+- Bounded Poetry
+- Blueprint Prose
+- Bifurcated Persona
+- Blended Performance
+- Bridging Plot
+- Bespoke Plot
+- Bardic Passage
+- Binary Puppetry
+- Brutalist Poetry
+- Borrowed Plot
+- Breached Perspective
+- Baroque Prose
+- Bifurcating Performance
+- Broken Perspective
+- Blended Plot
+- Bespoke Prose
+- Bardic Poetry
+- Binary Passage
+- Bridging Performance
+- Borrowed Passage
+- Breathless Prose
+- Broken Play
+- Blended Persona
+- Bifurcating Poetics
+- Boundless Poetics
+- Bespoke Passage
+- Bardic Puppetry
+- Bridging Poetics
+- Binary Performance
+- Brutalist Prose
+- Borrowed Play
+- Bifurcated Prose
+- Baroque Passage
+- Breathless Poetry
+- Boundless Plot
+- Blended Puppetry
+- Broken Poetics
+- Bespoke Play
+- Binary Parable
+- Bridging Poem
+- Bardic Blueprint
+- Borrowed Blueprint
+- Bespoke Perspective
+- Binary Blueprint
+- Brutalist Passage
+- Bifurcated Blueprint
+- Boundless Puppetry
+- Blended Blueprint
+- Broken Puppetry
+- Baroque Blueprint
+- Bifurcated Poetry
+- Bridging Passage
+- Binary Perspective
+- Bespoke Puppetry
+- Bardic Blueprint
+- Breached Poetics
+- Broken Blueprint
+- Blended Play
+- Bifurcating Puppetry
+- Boundless Passage
+
+
+...amongst others.
