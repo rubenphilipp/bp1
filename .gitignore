@@ -169,3 +169,15 @@ Temporary Items
 *.webm
 
 # End of https://www.toptal.com/developers/gitignore/api/emacs,macos,images,video
+
+
+################################################################################
+## additional ignores...
+## RP  Mon Mar  3 14:26:59 2025
+
+## sqlite
+*.sqlite
+*.sqlite3
+
+################################################################################
+### EOF .gitignore
