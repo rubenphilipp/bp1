@@ -8,6 +8,7 @@ algorithmic text generation.
 
 - [[https://github.com/rubenphilipp/cologne-phonetics/][cologne-phonetics]]
 - [[https://github.com/rubenphilipp/soundex][soundex]]
+- [[https://github.com/rubenphilipp/cl-ris][cl-ris]]
 
 ** Details
 

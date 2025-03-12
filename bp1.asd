@@ -14,7 +14,7 @@
 ;;; CREATED
 ;;; 2025-03-01
 ;;;
-;;; $$ Last modified:  00:06:21 Sun Mar  2 2025 CET
+;;; $$ Last modified:  17:35:29 Tue Mar 11 2025 CET
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 
@@ -29,6 +29,7 @@
                "cl-ppcre"
                "cologne-phonetics"
                "soundex"
+               "cl-ris"
                ;; "cl-yaml"
                )
   :pathname "src/"
